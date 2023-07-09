@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## This Project
+
+This project highlights how to route in React. I learned how to build it from [Geeks](https://www.geeksforgeeks.org/reactjs-router/).
+
 ## Available Scripts
 
 In the project directory, you can run:
